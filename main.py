@@ -17,7 +17,7 @@ LANGS = [
 
 REFERERS = [
     "https://www.google.com/", "https://www.bing.com/", 
-    "https://duckduckgo.com/", "https://facebook.com/", "https://t.co/",, "https://x.com/"
+    "https://duckduckgo.com/", "https://facebook.com/", "https://t.co/", "https://x.com/"
 ]
 
 # User-Agents Variados (Desktop e Mobile)
